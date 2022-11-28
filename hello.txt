@@ -16,7 +16,4 @@
 123123124 hot-fix test
 1111111111111111111111
 222222222222222 by lhc
-webstome
-webstome2
-webstome3
-webstome4
+webstome1
